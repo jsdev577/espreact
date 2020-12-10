@@ -1,0 +1,161 @@
+.textfield {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.h1-heading {
+  padding: 5px !important;
+  color:white !important;
+  margin-top: 5px !important;
+}
+
+.header-button {
+  margin-left: 255px !important;
+  margin-bottom: 15px !important;
+  color: white !important;
+  top: 7px;
+  right: -100px;
+}
+
+.stake-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.stake-cardAction-div {
+  display: flex;
+}
+
+.startDay-typography {
+  margin-right: 100px;
+  margin-left: 65px;
+  color: black;
+}
+
+.lastFullDay-typography {
+  margin-right: 100px;
+  color: black;
+}
+
+.endDay-typography {
+  margin-right: 4px;
+  color: black ;
+}
+
+.startDay-typography1 {
+  margin-right: 180px;
+  margin-left: 85px;
+  color: black;
+}
+
+.lastFullDay-typography1 {
+  margin-right: 157px;
+  color: black;
+}
+
+.endDay-typography1 {
+  margin-right: 4px;
+  color: black;
+}
+
+.daily-div-chart{
+  margin-top: 20px;
+}
+
+.color-black {
+  color: black;
+}
+
+.table-container {
+  width: 1150px;
+  margin-top: 20px;
+}
+
+.margin-card {
+  margin-top: -15px !important;
+  padding: 30px !important;
+  margin: auto !important;
+  box-shadow: 0 6px 10px 0 !important;
+}
+
+.margin-added {
+  margin-left: -120px !important;
+  margin-bottom: 100px !important
+}
+
+.referral-container {
+  width: 98% !important;
+  margin: 20px !important;
+  top: 80px !important;
+}
+
+.referral-margin {
+  margin: 20px !important;
+  margin-left: 10px !important;
+}
+
+.referral-div {
+  margin: auto;
+  width: 50%;
+}
+
+.referral-h1 {
+  text-align: center;
+}
+
+.background-main {
+  background-color: #17a2b8;
+}
+
+.footer-edits {
+  background-color: black;
+  margin-top: 0px !important;
+  padding-right: 630px !important;
+  padding-bottom: 40px !important;
+  max-width: 100% !important;
+  padding-top: 20px !important;
+}
+
+.navbar-edits {
+  background-color: blue !important;
+}
+
+.img-logo {
+  width: 135px !important;
+  height: 100px !important;
+  padding-top: 20px !important;
+}
+
+.links-margin {
+  top: 10px !important;
+  position: absolute;
+  right: 35px;
+
+}
+
+.links-color {
+  color: white !important;
+}
+
+.logo-name {
+  position: relative !important;
+  top: 30px !important;
+  left: -35px !important;
+}
+
+.buttons-z-index {
+  z-index: 21;
+}
+
+.header-background {
+  background-color: transparent !important;
+  background-image: none !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.background-nav {
+  background-color: #2a88e8;
+}
